@@ -2,29 +2,32 @@
 
 This is a **stunning Iron Man-themed** front-end web page built using **React, Tailwind CSS, and CSS**. The project showcases Iron Man's legacy with high-quality images, smooth animations, and a sleek design.
 
-![Iron Man](https://wallpapercave.com/wp/wp2553459.jpg)
+![Iron Man]((https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO-iaGvNgGqKcG2sebfjrlZd6NJ52q0SbgnA&s))
 
 ## 🚀 Features
+## 🚀 Features
 
-- **Fully Responsive**: Adapts to different screen sizes.
-- **Smooth Animations**: Interactive hover and transition effects.
-- **Modern UI Design**: Inspired by the Iron Man theme.
-- **Fast Performance**: Optimized for speed.
-- **Dark Mode Aesthetics**: True to the Iron Man feel.
+- 🖥️ **Fully Responsive**: Adapts to different screen sizes.
+- 🎞️ **Smooth Animations**: Interactive hover and transition effects.
+- 🎨 **Modern UI Design**: Inspired by the Iron Man theme.
+- ⚡ **Fast Performance**: Optimized for speed.
+- 🌑 **Dark Mode Aesthetics**: True to the Iron Man feel.
+- ♻️ **Dynamic Components**: Built using reusable React components.
+- 🕹️ **Interactive UI**: Engaging user interface with hover effects and animations.
+- 🔍 **SEO Friendly**: Proper meta tags for search engine optimization.
 
 ## 🛠 Tech Stack
 
-- **React.js** - Component-based UI
-- **Tailwind CSS** - Utility-first styling
-- **CSS3** - Additional styling for effects
-
+- ⚛️ **React.js** - Component-based UI
+- 🎯 **Tailwind CSS** - Utility-first styling
+- 🎭 **CSS3** - Additional styling for effects
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](https://wallpapercave.com/wp/wp2553463.jpg)
+![Homepage](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH76xp8s5XAh0O1i9dVoFOFZP1KCyfUw1oPQ&s)
 
 ### Features Section
-![Features](https://wallpapercave.com/wp/wp2553471.jpg)
+![Features](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2nyQDE4vcwipu7yY7fQkBYtNMsz7g-1Ghtw&s)
 
 ## 🔧 Installation
 
@@ -33,7 +36,7 @@ This is a **stunning Iron Man-themed** front-end web page built using **React, T
 git clone https://github.com/ritishkumar/ironman-webpage.git
 
 # Navigate to the project directory
-cd ironman-webpage
+cd Ironman-img
 
 # Install dependencies
 npm install
@@ -49,6 +52,9 @@ npm run dev
 3. Commit your changes.
 4. Push to the branch.
 5. Create a pull request.
+
+## 💡 Inspiration
+This project is inspired by the **Iron Man** movies and Marvel Universe. The goal is to create an interactive experience that captures the futuristic essence of Tony Stark’s world. 🦾⚙️🔥
 
 ## 📜 License
 

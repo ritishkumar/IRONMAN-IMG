@@ -2,7 +2,7 @@
 
 This is a **stunning Iron Man-themed** front-end web page built using **React, Tailwind CSS, and CSS**. The project showcases Iron Man's legacy with high-quality images, smooth animations, and a sleek design.
 
-![Iron Man]((https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO-iaGvNgGqKcG2sebfjrlZd6NJ52q0SbgnA&s))
+![Iron Man]((https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO-iaGvNgGqKcG2sebfjrlZd6NJ52q0SbgnA&s)) (https://i.redd.it/yo9vifw0kmk91.jpg)
 
 ## 🚀 Features
 ## 🚀 Features

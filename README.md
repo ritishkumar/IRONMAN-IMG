@@ -24,7 +24,7 @@ This is a **stunning Iron Man-themed** front-end web page built using **React, T
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH76xp8s5XAh0O1i9dVoFOFZP1KCyfUw1oPQ&s)(https://i.redd.it/yo9vifw0kmk91.jpg)
+![Homepage](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH76xp8s5XAh0O1i9dVoFOFZP1KCyfUw1oPQ&s,https://i.redd.it/yo9vifw0kmk91.jpg)
 
 ### Features Section
 ![Features](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2nyQDE4vcwipu7yY7fQkBYtNMsz7g-1Ghtw&s)
